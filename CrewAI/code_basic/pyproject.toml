@@ -1,0 +1,10 @@
+[project]
+name = "code-basic"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crewai[google-genai,litellm,tools]>=1.10.1",
+    "tavily-python>=0.7.22",
+]

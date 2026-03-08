@@ -1,0 +1,37 @@
+CrewAI is an open-source framework used to build and manage multiple AI agents that work together to complete tasks. 🤖
+
+Instead of using a single AI model, CrewAI lets you create a team (crew) of specialized AI agents, where each agent has a role and they collaborate to solve a problem.
+
+Simple Explanation
+
+Think of CrewAI like a company team:
+
+👨‍💼 Manager Agent – plans the work
+
+🔍 Research Agent – collects information
+
+✍️ Writer Agent – creates the final output
+
+All these agents coordinate automatically to finish the task.
+
+Key Features
+
+Multi-Agent Collaboration – multiple AI agents work together.
+
+Role-based Agents – each agent has a specific role and goal.
+
+Task Delegation – tasks can be assigned to different agents.
+
+Automation – useful for workflows like research, coding, analysis, etc.
+
+Example Use Case
+
+Suppose you want to generate a market research report:
+
+Research Agent → collects data
+
+Analyst Agent → analyzes data
+
+Writer Agent → writes the report
+
+CrewAI manages the workflow between these agents.
