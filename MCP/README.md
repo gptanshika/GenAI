@@ -1,5 +1,7 @@
 MCP in AI (Model Context Protocol)
 
+MCP is an open protocal that standardize how application give context to LLM
+
 MCP (Model Context Protocol) is a protocol that allows AI models to securely connect with external tools, data sources, and applications.
 
 It was introduced by Anthropic to help AI assistants like Claude interact with real systems such as databases, APIs, files, and developer tools.
